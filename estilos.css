@@ -1,8 +1,8 @@
-h1 {color:black;
+h1 {
+color:black;
 padding: 500 px }
 
-.colorcambiante { color: black ; 
-
-}
-
-.verde {color: green;}
+.fotoPresentacion {
+    height: 10em ; 
+    width: 10em ; 
+    margin-left: 10em}
